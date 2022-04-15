@@ -1,0 +1,266 @@
+
+
+.main container{
+    padding: 100px;
+    margin: 100px;
+
+}
+.me h1{
+   font-size: 44px;
+   padding-left: 6%;
+   margin-top: 6%;
+}
+.me p{
+    font-size: 24px;
+    margin-left: 6%;
+    margin-top: 6%;
+}
+.me h2{
+    margin-left: 6%;
+    margin-top: 6%;
+    
+}
+
+
+
+nav{
+    text-align: left;
+    float: right;
+}
+
+
+nav li{
+    display:inline;
+    margin: 10px;;
+    float: left;
+    list-style: none;
+    padding: 10px;
+    margin-top: -1%;
+    
+}
+body{
+    background-color: #e1f9fd;
+    
+}
+.img img{
+    margin-left: 50%;
+    border-width: 80px;
+    border: 30px solid #98e3f0;
+    border-radius: 50%;
+    margin-top: -28%;
+    height: 450px;
+    width: 450px;
+}
+.text h2{
+    font-size: 50px;
+}
+.text p{
+    font-size: 25px;
+    padding-left: 40px;
+}
+.text{
+    display: inline-flex;
+}
+.col{
+    padding: 40px;
+    margin: 80px;
+    background-color: rgb(226,243,237);
+}
+.Amb{
+    padding: 40px;
+    margin: 80px;
+    background-color: rgb(226, 243, 237);
+}
+.dental{
+    padding: 40px;
+    margin: 80px;
+    background-color: rgb(226,243,237);
+}
+.one{
+    display: inline-flex;
+    margin-top: -10%;
+}
+.surg{
+    padding: 40px;
+    margin: 80px;
+    background-color: rgb(226,243,237);
+}
+.part{
+    padding: 40px;
+    margin: 80px;
+    background-color: rgb(226,243,237);
+}
+.pet{
+    padding: 40px;
+    margin: 80px;
+    background-color: rgb(226,243,237);
+}
+.Two{
+    display: inline-flex;
+    margin-top: -10%;
+}
+.container{
+    display: inline-flex;
+    margin-top: -10%;
+    /* background-color: #e3f1f3; */
+
+}
+.tittle h2{
+    font-size: 30px;
+}
+
+.picture{
+    margin: 60px;
+    padding: 30px;
+}
+.tittle{
+    margin: 60px;
+    padding: 30px;
+}
+.btn{
+    margin: 60px;
+    padding: 30px;
+}
+.patient{
+    display: inline-flex;
+    padding: 30px;
+    margin: 60px;
+}
+.patient h2{
+    font-size: 40px;
+}
+.patient p{
+    font-size: 30px;
+    margin-left: 60px;
+}
+.gratitude{
+    display: inline-flex;
+    margin-top: -12%;
+    margin-bottom: -10px;
+}
+.grat{
+    padding: 40px;
+    margin: 80px;
+    background-color: white;
+}
+.grat-t{
+    padding: 40px;
+    margin: 80px;
+    background-color: white;
+}
+.vet{
+    margin-top: -5%;
+}
+.heading h2{
+    text-align: center;
+    font-size: 40px;
+}
+.see{
+    text-align: right;
+    margin: 15px;
+    padding: 10px;
+}
+.doc{
+    padding: 10px;
+    margin: 20px;
+}
+.box{
+    padding:10px ;
+    margin: 20px;
+}
+.text{
+    display: inline-flex;
+    margin: 30px;
+    padding: 40px;
+}
+.btn{
+    margin: 30px;
+    padding: 20px;
+    border-color: rgb(32, 32, 42);
+
+}
+.blog {
+align-content: center;
+padding: 40px;
+margin: 40px;
+height: 200px;
+width: 700px;
+font-size: 25px;
+margin-left: 14%;
+text-align: center;
+background-color: rgb(187, 255, 232);
+border-radius: 30px;
+}
+.email{
+    padding: 10px;
+    margin: 20px;
+    background-color: white;
+    display: flex;
+}
+.sub{
+    padding-left: 100px;
+    align-content: flex-end;
+    border-color: rgb(141, 228, 199);
+    border-radius: 30px;
+    margin-left: 20px;
+}
+
+.foot{
+    padding: 30px;
+    margin: 70px;
+    font-size: 20px;
+}
+.foote{
+    padding: 30px;
+    margin: 70px;
+    font-size: 20px;
+}
+.fo-t{
+    padding: 30px;
+    margin: 70px;
+    font-size: 20px;
+}
+.bttn
+{
+    margin-top: 7%;
+    margin-bottom: 7% ;
+    margin-left: -17%;
+    padding: 1%;
+    
+
+}
+.ft{
+    padding: 30px;
+    margin: 70px;
+    font-size: 20px;
+}
+.footer{
+    display: inline-flex;
+    background-color: whitesmoke;
+}
+.header{
+    display:flex;
+    text-align: center;
+    margin-right: -20%;
+    
+}
+.header1{
+    padding: 30px;
+    margin: 40px;
+}
+.header1 img{
+    background-color: rgb(84, 149, 149);
+}
+.header2{
+    padding: 30px;
+    margin: 40px;
+}
+.header3{
+    padding: 30px;
+    margin: 40px;
+}
+
+
+
+
+
