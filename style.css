@@ -8,21 +8,30 @@
 .me h1{
    font-size: 44px;
    padding-left: 6%;
-   margin-top: 6%;
+   margin-top: 4%;
 }
 .me p{
     font-size: 24px;
     margin-left: 6%;
-    margin-top: 6%;
+    margin-top: 4%;
+    
+}
+.me h4{
+    color: yellow;
+    margin-left: 6%;
+
 }
 .me h2{
     margin-left: 6%;
     margin-top: 6%;
     
 }
+.hrs p{
+    color: blue;
+}
 .start{
     padding: 12px;
-    background-color: #98e3f0;
+    background-color:#159EA9;
     font-size: 20px;
     border: none;
     border-radius: 30px;
@@ -48,17 +57,20 @@ nav li{
     float: left;
     list-style: none;
     padding: 10px;
-    margin-top: -1%;
-    
+    margin-top: -10%;
+    margin-right: 10px;
+}
+ul li{
+    color: blue;
 }
 body{
-    background-color: #e1f9fd;
+    background-color:#F8FEFF;
     
 }
 .img img{
     margin-left: 50%;
     border-width: 80px;
-    border: 30px solid #98e3f0;
+    border: 30px solid #CFE4E7;
     border-radius: 50%;
     margin-top: -28%;
     height: 450px;
@@ -71,6 +83,7 @@ body{
     font-size: 22px;
     padding-left: 40px;
     margin-left: 30%;
+    color: blue;
 }
 .text{
     display: inline-flex;
@@ -78,17 +91,31 @@ body{
 .col{
     padding: 40px;
     margin: 80px;
-    background-color: rgb(226,243,237);
+    background-color:#FFFFFF;
+}
+.col p{
+    color: blue;
+    font-size: 18px;
 }
 .Amb{
     padding: 40px;
     margin: 80px;
-    background-color: rgb(226, 243, 237);
+    background-color:#FFFFFF;
+    
+}
+.Amb p{
+    color: blue;
+    font-size: 18px;
 }
 .dental{
     padding: 40px;
     margin: 80px;
-    background-color: rgb(226,243,237);
+    background-color: #FFFFFF;
+    
+}
+.dental p{
+    color: blue;
+    font-size: 18px;
 }
 .one{
     display: inline-flex;
@@ -97,17 +124,32 @@ body{
 .surg{
     padding: 40px;
     margin: 80px;
-    background-color: rgb(226,243,237);
+    background-color:#FFFFFF;
+  
+}
+.surg p{
+    color: blue;
+    font-size: 18px;
 }
 .part{
     padding: 40px;
     margin: 80px;
-    background-color: rgb(226,243,237);
+    background-color:#FFFFFF;
+   
+}
+.part p{
+    color: blue;
+    font-size: 18px;
 }
 .pet{
     padding: 40px;
     margin: 80px;
-    background-color: rgb(226,243,237);
+    background-color:#FFFFFF;
+  
+}
+.pet p{
+    color: blue;
+    font-size: 18px;
 }
 .Two{
     display: inline-flex;
@@ -122,11 +164,17 @@ body{
 .tittle h2{
     font-size: 30px;
 }
+.title p{
+    color: blue;
+}
+.tex p{
+    color: blue;
+}
 
 .picture{
     margin: 60px;
     padding: 40px;
-    background-color: #c2e2e9;
+    background-color:#CFE4E7;
 }
 .tittle{
     margin: 60px;
@@ -134,7 +182,7 @@ body{
 }
 .bn{
     padding: 12px;
-    background-color: #98e3f0;
+    background-color: #578c87;
     font-size: 20px;
     border: none;
     border-radius: 30px;
@@ -155,6 +203,7 @@ body{
     font-size: 22px;
     margin-left: 60px;
     margin-left: 30%;
+    color: blue;
 }
 .gratitude{
     display: inline-flex;
@@ -165,6 +214,12 @@ body{
     padding: 40px;
     margin: 80px;
     background-color: white;
+}
+.thank p{
+    color: blue;
+}
+.thank1 p{
+    color: blue;
 }
 .grat-t{
     padding: 40px;
@@ -209,9 +264,9 @@ margin: 40px;
 height: 200px;
 width: 700px;
 font-size: 25px;
-margin-left: 14%;
+margin-left: 16%;
 text-align: center;
-background-color: rgb(187, 255, 232);
+background-color:#E9FAFC;
 border-radius: 30px;
 }
 .email{
@@ -220,7 +275,7 @@ border-radius: 30px;
     background-color: white;
     display: flex;
 }#subb{
-    background-color: aqua;
+    background-color:#1AA0AB;
     margin: 10% 0 0 160%;
     padding: 12px;
     border-radius: 10%;
@@ -231,15 +286,24 @@ border-radius: 30px;
     margin: 70px;
     font-size: 20px;
 }
+.foot p{
+    color: blue;
+}
 .foote{
     padding: 30px;
     margin: 70px;
     font-size: 20px;
 }
+.foote p{
+    color: blue;
+}
 .fo-t{
     padding: 30px;
     margin: 70px;
     font-size: 20px;
+}
+.fo-t p{
+    color: blue;
 }
 .bttn
 {
@@ -255,6 +319,9 @@ border-radius: 30px;
     margin: 70px;
     font-size: 20px;
 }
+.ft p{
+    color: blue;
+}
 .footer{
     display: inline-flex; 
 }
@@ -267,6 +334,7 @@ border-radius: 30px;
 .header1{
     padding: 30px;
     margin: 40px;
+    margin-right: 10%;
 }
 .header1 img{
     background-color: rgb(84, 149, 149);
@@ -274,34 +342,36 @@ border-radius: 30px;
 .header2{
     padding: 30px;
     margin: 40px;
+    margin-right: 10%;
 }
 .header3{
     padding: 30px;
     margin: 40px;
+    margin-right: 10%;
 }
 .plus{
-    color: rgb(34, 0, 255);
+    color: rgb(208, 244, 231);
 }
 .ambulance{
-    color: rgb(34, 0, 255);
+    color:rgb(208, 244, 231);
 }
 .medkit{
-    color:rgb(34, 0, 255); 
+    color:rgb(208, 244, 231); 
 }
 .window{
-    color: rgb(34, 0, 255);;
+    color: rgb(208, 244, 231);;
 }
 .hand{
-    color: rgb(34, 0, 255);
+    color: rgb(208, 244, 231);
 }
 .arrows{
-    color: rgb(34, 0, 255);
+    color:rgb(208, 244, 231);
 }
 .quote1{
-    color: rgb(26, 26, 222);
+    color:rgb(208, 244, 231);
 }
 .quote2{
-    color:rgb(26, 26, 222);
+    color:rgb(208, 244, 231);
 }
 .icon{
     border-radius: 40%;
